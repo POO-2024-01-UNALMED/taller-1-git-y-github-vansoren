@@ -1,0 +1,3 @@
+Juan Camilo García García
+21 
+Entender el paradigma de la programación orientada a objetos para así poder entender mejor el mundo de la programación
